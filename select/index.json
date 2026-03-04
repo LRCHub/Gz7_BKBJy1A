@@ -1,0 +1,416 @@
+{
+  "version": 1,
+  "base_track": "True Blue",
+  "base_artist": "ボーイジーニアス",
+  "createdAt": "2026-03-04T23:15:15.616344Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "True Blue",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/01_True_Blue_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "True Blue",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/02_True_Blue_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "True Blue - The Color Mix",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/03_True_Blue_-_The_Color_Mix_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "True Blue (The Color Mix)",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/04_True_Blue_(The_Color_Mix)_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "True Blue",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/05_True_Blue_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "True Blue",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/06_True_Blue_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "True Blue (The Color Mix)",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/07_True_Blue_(The_Color_Mix)_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "True Blue",
+      "artist": "PEACH KELLI POP",
+      "has_synced": false,
+      "path": "select/08_True_Blue_PEACH_KELLI_POP.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "True Blue",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/09_True_Blue_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "True Blue",
+      "artist": "George Benson",
+      "has_synced": false,
+      "path": "select/10_True_Blue_George_Benson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "True Blue",
+      "artist": "boygenius",
+      "has_synced": true,
+      "path": "select/11_True_Blue_boygenius.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "True Blue",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/12_True_Blue_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "True Blue Love",
+      "artist": "Lou Gramm",
+      "has_synced": false,
+      "path": "select/13_True_Blue_Love_Lou_Gramm.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Too Good to Be True",
+      "artist": "Michael Peterson",
+      "has_synced": false,
+      "path": "select/14_Too_Good_to_Be_True_Michael_Peterson.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Too Good to Be True (Album Version)",
+      "artist": "MICHAEL PETERSON",
+      "has_synced": false,
+      "path": "select/15_Too_Good_to_Be_True_(Album_Version)_MICHAEL_PETERSON.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "True",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/16_True_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "True (Album Version)",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/17_True_(Album_Version)_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "True (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/18_True_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "True - Edit",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/19_True_-_Edit_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "True Love Ways",
+      "artist": "Mickey Gilley",
+      "has_synced": false,
+      "path": "select/20_True_Love_Ways_Mickey_Gilley.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "True Love's Face",
+      "artist": "Erin Rae",
+      "has_synced": true,
+      "path": "select/21_True_Love's_Face_Erin_Rae.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "True North",
+      "artist": "Caroline Spence",
+      "has_synced": true,
+      "path": "select/22_True_North_Caroline_Spence.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Until My Dreams Come True",
+      "artist": "Jack Greene",
+      "has_synced": false,
+      "path": "select/23_Until_My_Dreams_Come_True_Jack_Greene.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "It's True",
+      "artist": "蔡健雅",
+      "has_synced": true,
+      "path": "select/24_It's_True_蔡健雅.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "True",
+      "artist": "王若琳",
+      "has_synced": true,
+      "path": "select/25_True_王若琳.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "True Mathematics",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/26_True_Mathematics_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "If What You Say Is True",
+      "artist": "Wu-Tang Clan feat. Streetlife",
+      "has_synced": true,
+      "path": "select/27_If_What_You_Say_Is_True_Wu-Tang_Clan_feat._Streetlife.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "If What You Say Is True (feat. Streetlife)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/28_If_What_You_Say_Is_True_(feat._Streetlife)_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "True Confessions",
+      "artist": "RJD2",
+      "has_synced": false,
+      "path": "select/29_True_Confessions_RJD2.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "true loyalty",
+      "artist": "50 Cent feat. Lloyd Banks & Tony Yayo",
+      "has_synced": false,
+      "path": "select/30_true_loyalty_50_Cent_feat._Lloyd_Banks_&_Tony_Yayo.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "True Loyalty (Feat. Lloyd Banks Banks & Tony Yayo)",
+      "artist": "50 Cent",
+      "has_synced": false,
+      "path": "select/31_True_Loyalty_(Feat._Lloyd_Banks_Banks_&_Tony_Yayo)_50_Cent.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "I'm Good (Blue)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/32_I'm_Good_(Blue)_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "My Blue Angel",
+      "artist": "Aaron Tippin",
+      "has_synced": false,
+      "path": "select/33_My_Blue_Angel_Aaron_Tippin.txt"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Blue Morpho",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/34_Blue_Morpho_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Clearest Blue (Gryffin Remix)",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/35_Clearest_Blue_(Gryffin_Remix)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Am I Blue",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/36_Am_I_Blue_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Am I Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/37_Am_I_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "Angel in Blue Jeans",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/38_Angel_in_Blue_Jeans_Train.lrc"
+    },
+    {
+      "id": "lrclib_39",
+      "source": "lrclib",
+      "title": "Atlanta Blue",
+      "artist": "The Statlers",
+      "has_synced": false,
+      "path": "select/39_Atlanta_Blue_The_Statlers.txt"
+    },
+    {
+      "id": "lrclib_40",
+      "source": "lrclib",
+      "title": "Baby Blue",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/40_Baby_Blue_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_41",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/41_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_42",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/42_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_43",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/43_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_44",
+      "source": "lrclib",
+      "title": "Baby's Got Her Blue Jeans On",
+      "artist": "Mel McDaniel",
+      "has_synced": true,
+      "path": "select/44_Baby's_Got_Her_Blue_Jeans_On_Mel_McDaniel.lrc"
+    },
+    {
+      "id": "lrclib_45",
+      "source": "lrclib",
+      "title": "Baby's Got Her Blue Jeans On",
+      "artist": "Mel McDaniel",
+      "has_synced": true,
+      "path": "select/45_Baby's_Got_Her_Blue_Jeans_On_Mel_McDaniel.lrc"
+    },
+    {
+      "id": "lrclib_46",
+      "source": "lrclib",
+      "title": "Barefoot Blue Jean Night",
+      "artist": "Jake Owen",
+      "has_synced": true,
+      "path": "select/46_Barefoot_Blue_Jean_Night_Jake_Owen.lrc"
+    },
+    {
+      "id": "lrclib_47",
+      "source": "lrclib",
+      "title": "Barefoot Blue Jean Night",
+      "artist": "Jake Owen",
+      "has_synced": true,
+      "path": "select/47_Barefoot_Blue_Jean_Night_Jake_Owen.lrc"
+    },
+    {
+      "id": "lrclib_48",
+      "source": "lrclib",
+      "title": "Between Blue Eyes And Jeans",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/48_Between_Blue_Eyes_And_Jeans_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_49",
+      "source": "lrclib",
+      "title": "Blue",
+      "artist": "Ingrid Andress",
+      "has_synced": true,
+      "path": "select/49_Blue_Ingrid_Andress.lrc"
+    },
+    {
+      "id": "lrclib_50",
+      "source": "lrclib",
+      "title": "Blue",
+      "artist": "Ingrid Andress",
+      "has_synced": true,
+      "path": "select/50_Blue_Ingrid_Andress.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "True Blue",
+      "artist": "boygenius",
+      "has_synced": false,
+      "path": "select/pl_01_True_Blue_boygenius.txt"
+    }
+  ]
+}
